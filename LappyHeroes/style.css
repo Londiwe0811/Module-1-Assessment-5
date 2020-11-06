@@ -1,0 +1,21 @@
+.gallery img {
+        width: 100%
+}
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 60px;
+    color: chocolate;
+    font-style: normal;
+}
+
+h3{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: oblique;
+    background-color: aquamarine;
+}
+
+p {font-size-adjust: auto;
+    
+}
